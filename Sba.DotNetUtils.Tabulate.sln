@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sba.DotNetUtils.Tabulate", "Sba.DotNetUtils.Tabulate\Sba.DotNetUtils.Tabulate.csproj", "{D58F6C1B-ED5C-4A13-BDA7-7AABBCFE5CB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sba.DotNetUtils.Tabulate_UT", "Sba.DotNetUtils.Tabulate_UT\Sba.DotNetUtils.Tabulate_UT.csproj", "{5B9EBBE1-FD2B-4256-BD5B-18DF9B0FC87D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D58F6C1B-ED5C-4A13-BDA7-7AABBCFE5CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D58F6C1B-ED5C-4A13-BDA7-7AABBCFE5CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D58F6C1B-ED5C-4A13-BDA7-7AABBCFE5CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9EBBE1-FD2B-4256-BD5B-18DF9B0FC87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9EBBE1-FD2B-4256-BD5B-18DF9B0FC87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9EBBE1-FD2B-4256-BD5B-18DF9B0FC87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9EBBE1-FD2B-4256-BD5B-18DF9B0FC87D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -35,6 +35,7 @@ _ReSharper*/
 *.[Pp]ublish.xml
 Output/
 Backup/
+[Pp]ackages/
 .vs
 
 # Ignore IntelliJ IDEA files
