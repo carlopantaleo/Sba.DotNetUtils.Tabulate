@@ -2,6 +2,12 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard1.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Tabulate String Extension</Title>
+        <Description>A simple string extension method to format strings with fixed length</Description>
+        <Copyright>© 2019 - Carlo Pantaleo @ Servizi Bancari Associati S.p.A.</Copyright>
+        <PackageProjectUrl>https://github.com/carlopantaleo/Sba.DotNetUtils.Tabulate</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/carlopantaleo/Sba.DotNetUtils.Tabulate</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
