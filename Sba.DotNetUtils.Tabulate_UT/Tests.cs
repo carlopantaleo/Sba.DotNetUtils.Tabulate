@@ -18,5 +18,10 @@ namespace Sba.DotNetUtils.Tabulate_UT {
         public void TabulateLeftAlignFillWithPeriods() {
             Assert.AreEqual("a...", "a".Tabulate(-4, '.'));
         }
+        
+        [Test]
+        public void TabulateTruncate() {
+            Assert.AreEqual("abcd", "abcde".Tabulate(-4, '.'));
+        }
     }
 }
