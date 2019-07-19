@@ -20,8 +20,13 @@ namespace Sba.DotNetUtils.Tabulate_UT {
         }
         
         [Test]
-        public void TabulateTruncate() {
+        public void TabulateTruncateRight() {
             Assert.AreEqual("abcd", "abcde".Tabulate(-4, '.'));
+        }
+        
+        [Test]
+        public void TabulateTruncateLeft() {
+            Assert.AreEqual("bcde", "abcde".Tabulate(4, '.'));
         }
     }
 }
