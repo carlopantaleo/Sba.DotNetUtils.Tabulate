@@ -8,6 +8,7 @@
         <Copyright>© 2019 - Carlo Pantaleo @ Servizi Bancari Associati S.p.A.</Copyright>
         <PackageProjectUrl>https://github.com/carlopantaleo/Sba.DotNetUtils.Tabulate</PackageProjectUrl>
         <RepositoryUrl>https://github.com/carlopantaleo/Sba.DotNetUtils.Tabulate</RepositoryUrl>
+        <PackageVersion>2.0.1</PackageVersion>
     </PropertyGroup>
 
 </Project>
